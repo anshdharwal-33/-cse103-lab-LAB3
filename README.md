@@ -1,4 +1,3 @@
-Testing remote changes.
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
 ![Last Commit](https://img.shields.io/github/last-commit/anshdharwal-33/cse103-lab-LAB3)
